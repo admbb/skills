@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 整理"
+  short_description: "整理 Obsidian 数学笔记结构、公式、关联链接与 Frontmatter"
+
